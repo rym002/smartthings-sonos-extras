@@ -1,0 +1,5 @@
+name: Sonos Extra Control
+packageKey: rym002.sonosextras
+permissions:
+  lan: {}
+  discovery: {}

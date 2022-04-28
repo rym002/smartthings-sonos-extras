@@ -1,0 +1,27 @@
+name: sonos-extras
+components:
+  - id: main
+    capabilities:
+      - id: refresh
+        version: 1
+  - id: DialogLevel
+    label: Dialog Level
+    capabilities:
+      - id: switch
+        version: 1
+    categories:
+      - name: Switch
+  - id: NightMode
+    label: Night Mode
+    capabilities:
+      - id: switch
+        version: 1
+    categories:
+      - name: Switch
+  - id: SurroundMode
+    label: Surround Mode
+    capabilities:
+      - id: switch
+        version: 1
+    categories:
+      - name: Switch
