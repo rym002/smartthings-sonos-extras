@@ -7,7 +7,8 @@ local discovery = {}
 
 local profiles = {
     ["S9"] = "sonos-extras",
-    ["S14"] = "sonos-extras"
+    ["S14"] = "sonos-extras",
+    ["S19"] = "sonos-extras"
 }
 
 local newly_added = {}
